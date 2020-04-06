@@ -1,0 +1,46 @@
+.header {
+    text-align: center;
+    margin-top: 160px;
+    font-family: 'Lobster Two', cursive;
+}
+
+.container {
+  margin: 20px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.post-heading {
+    text-align: center;
+    margin-top: 35px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.entry {
+    text-align: left;
+    margin: 30px 30px 30px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.comment {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+
+.imgcontainer {
+text-align: center;
+}
+
+
+form {
+    
+    margin: 90px 90px 90px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.aboutme {
+    text-align: left;
+    margin: 70px 70px 70px;
+}
